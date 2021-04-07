@@ -1,0 +1,128 @@
+{
+  "configVersion": 1,
+  "timestamp": 1617806686633,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.31b4a097b74b22d30b08.js",
+        "/manifest.webmanifest",
+        "/polyfills.9bf4dad123bd95dda86e.js",
+        "/runtime.359d5ee4682f20e936e9.js",
+        "/styles.6d797727d02244e02b35.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/images/icons/apple-touch-icon.png",
+        "/assets/images/icons/cassete.svg",
+        "/assets/images/icons/icon-128x128.png",
+        "/assets/images/icons/icon-144x144.png",
+        "/assets/images/icons/icon-152x152.png",
+        "/assets/images/icons/icon-192x192.png",
+        "/assets/images/icons/icon-384x384.png",
+        "/assets/images/icons/icon-512x512.png",
+        "/assets/images/icons/icon-72x72.png",
+        "/assets/images/icons/icon-96x96.png",
+        "/assets/images/letter.jpeg",
+        "/assets/images/letters.gif",
+        "/assets/images/logo/circle_logo.png",
+        "/assets/images/logo/inhinito_logo.png",
+        "/assets/images/logo/logo.jpeg",
+        "/assets/images/social/discord.svg",
+        "/assets/images/social/facebook.svg",
+        "/assets/images/social/instagram.svg",
+        "/assets/images/social/pinterest.svg",
+        "/assets/images/social/twitch.svg",
+        "/assets/images/social/twitter.svg",
+        "/assets/images/social/youtube.svg",
+        "/assets/images/tape.gif",
+        "/assets/images/team/athanasiou.jpg",
+        "/assets/images/team/iotakos.jpg",
+        "/assets/images/team/mati.jpg",
+        "/assets/images/team/member.png",
+        "/assets/images/team/neoplasma.jpg",
+        "/assets/images/team/nikitas.jpg",
+        "/assets/images/team/ondivil.jpg",
+        "/assets/images/team/panos.jpg",
+        "/assets/images/thumbnail.jpeg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/images/icons/apple-touch-icon.png": "48aaf54e531f1b6defb5a05c87ee0eff136cc59e",
+    "/assets/images/icons/cassete.svg": "cf90e6ad1994215f1d6512c3c14cde5c093c49c2",
+    "/assets/images/icons/icon-128x128.png": "dc323ffc5e5d45e997771b41314ac0d0b6fa304b",
+    "/assets/images/icons/icon-144x144.png": "52f06ee3adf29c53b9249f1003bda40787839bb3",
+    "/assets/images/icons/icon-152x152.png": "42b04979fb4e190fc3a02847eebe401abb368bf0",
+    "/assets/images/icons/icon-192x192.png": "6e36a251440f4fa4d56a36631f1a5d7d53260bc2",
+    "/assets/images/icons/icon-384x384.png": "e140d07a727ee0647019317a327c2e70564a86dc",
+    "/assets/images/icons/icon-512x512.png": "6240bd5eaf98b2afc4b3a7ae02b4875e62aa9adc",
+    "/assets/images/icons/icon-72x72.png": "77b986b402df7f977c6536899e595fc1dfbbccf6",
+    "/assets/images/icons/icon-96x96.png": "67236f9af1b24a773f5712b61f769e81b9ffcd03",
+    "/assets/images/letter.jpeg": "9b966aa973a3bb3ea62ab9b5e632265eadce1866",
+    "/assets/images/letters.gif": "85cb65a7cc8e771b6857364fc6f3d4f054b8ece8",
+    "/assets/images/logo/circle_logo.png": "e6d1b027e893f33afeb8827c58140c0ffcd71b9b",
+    "/assets/images/logo/inhinito_logo.png": "79df731a91af57de1a951c7311e155b2e46308f7",
+    "/assets/images/logo/logo.jpeg": "748ae827f22c751ae70b723b5368904d8e71f03b",
+    "/assets/images/social/discord.svg": "0d1e37b535fee27c61efec7c566881606bf935e5",
+    "/assets/images/social/facebook.svg": "fef1d2feb8905ef301c9fe8bf59c802877076561",
+    "/assets/images/social/instagram.svg": "0d7d79441f00818f5f3ec5563d2c9d77962ab047",
+    "/assets/images/social/pinterest.svg": "b5891f3cf4dc6f3129ae8ca42a888c8aef2a006b",
+    "/assets/images/social/twitch.svg": "d41929e1aa950216854cb3cddbf5e5d041b64c17",
+    "/assets/images/social/twitter.svg": "df9e27bdb5ee821e66c3366cc3276cbbf86376c4",
+    "/assets/images/social/youtube.svg": "a357e16123b4e528338576aac4ab0ff4adef471a",
+    "/assets/images/tape.gif": "490d7be4413fd5a09163221c607a0a78a45ce83a",
+    "/assets/images/team/athanasiou.jpg": "42f1ce70938ad7e767c51dea2060276c74174ba1",
+    "/assets/images/team/iotakos.jpg": "2e86ec9b871b735051be904e75ca0091b0126e5b",
+    "/assets/images/team/mati.jpg": "30f8e24013550fb7d6403eeec4054ecc364d634d",
+    "/assets/images/team/member.png": "6157571694903e8739cf4df422c6b8a46d632026",
+    "/assets/images/team/neoplasma.jpg": "e38b7c6df4ad022b16d68ba34edd5245523627cf",
+    "/assets/images/team/nikitas.jpg": "67ce36334bfec0b519ae715fd03629b3cc08d8f3",
+    "/assets/images/team/ondivil.jpg": "ccdabee24acfee0125f1073f44cfde68a648ff46",
+    "/assets/images/team/panos.jpg": "bfae3650ac85909262b8e6058c5dcdf245bdeba5",
+    "/assets/images/thumbnail.jpeg": "17ab903033d9158d1e639729e53d43c0e6617d85",
+    "/favicon.ico": "d2e62df60d692a9e766141d387a4a959e6235146",
+    "/index.html": "8d9b08377abf5b32050890f5bfaddc51bab532cf",
+    "/main.31b4a097b74b22d30b08.js": "a8df177ab3a4c48755c21848aa933badb7be09a9",
+    "/manifest.webmanifest": "9a65e5239d194b0e4947fafd888872d666987034",
+    "/polyfills.9bf4dad123bd95dda86e.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "/runtime.359d5ee4682f20e936e9.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.6d797727d02244e02b35.css": "63b841e144825c2313f6c2b527bfd2bb6a0e748c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
